@@ -1,0 +1,3 @@
+prometheus_api_client
+flask
+mysql.connector
